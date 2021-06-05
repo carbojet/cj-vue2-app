@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "A Tie",
+      "price": "120",
+      "brand": "Jokky",
+      "inventoryStatus": false,
+      "id": 2
+    },
+    {
+      "name": "Tshirt",
+      "price": "75",
+      "brand": "addidas",
+      "inventoryStatus": true,
+      "id": 3
+    }
+  ]
+}
